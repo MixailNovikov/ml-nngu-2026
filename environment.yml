@@ -1,0 +1,11 @@
+name: ml_env
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - jupyter
+  - matplotlib
+  - seaborn
+  - scikit-learn>=1.2
+  - pandas
+  - numpy
